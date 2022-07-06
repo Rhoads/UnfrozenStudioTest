@@ -1,0 +1,12 @@
+.vs
+/USTestChatServer/bin
+/USTestChatServer/obj
+*.log
+/USTestChatServer/*.db
+/USTestChatClient/Library
+/USTestChatClient/Logs
+/USTestChatClient/Temp
+/USTestChatClient/*.csproj
+/USTestChatClient/*.sln
+/USTestChatClient/UserSettings
+/USTestChatClient/*.vsconfig
